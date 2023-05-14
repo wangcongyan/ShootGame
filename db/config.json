@@ -1,0 +1,35 @@
+{
+    "Halo":{
+        "host":"192.168.19.230",
+        "user":"wangcongyan",
+        "password":"wangcongyan123",
+        "database":"ssl_fleet",
+        "port": "3306"
+    },
+    "mysql":{
+        "host":"192.168.19.230",
+        "user":"wangcongyan",
+        "password":"wangcongyan123",
+        "database":"ssl_fleet",
+        "port": "3306"
+    },
+    "dyn":{
+        "host":"192.168.19.230",
+        "user":"wangcongyan",
+        "password":"wangcongyan123",
+        "database":"ssl_fleet",
+        "port": "3306"
+    },
+    "export":{
+        "data": "D:/Tech/Cocos/SuiShiLing/db/data",
+        "dataProxy": "D:/Tech/Cocos/SuiShiLing/assets/Scripts/core/data",
+        "gamedata": "D:/Tech/Cocos/SuiShiLing/assets/Resources/data",
+        "lan": "D:/Tech/Cocos/SuiShiLing/bin/data/",
+        "gameSetting": "D:/Tech/Cocos/SuiShiLing/engine/types/GameSetting.d.ts",
+        "lang": "D:/Tech/Cocos/SuiShiLing/assets/Scripts/types/Lang.d.ts",
+        "Enum": "D:/Tech/Cocos/SuiShiLing/assets/Scripts/core/enum/EnumDbName.ts",
+        "dataProxyRegister": "D:/Tech/Cocos/SuiShiLing/assets/Scripts/core/data/EnumData.ts",
+        "clientSetting": "D:/Tech/Cocos/SuiShiLing/assets/Scripts/core/ClientSetting.ts",
+        "dataP": "D:/Tech/Cocos/SuiShiLing/assets/Scripts/core/data/DataP.ts"
+    }
+}

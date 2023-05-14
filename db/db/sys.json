@@ -1,0 +1,53 @@
+[
+    {
+        "sql": "SELECT * FROM `sys_bullet`",
+        "name": "sys_bullet",
+        "key": [
+            "BulletID"
+        ]
+    },
+    {
+        "sql": "SELECT * FROM `sys_bullet_templete`",
+        "name": "sys_bullet_templete",
+        "key": [
+            "BulletTempleteID"
+        ]
+    },
+    {
+        "sql": "SELECT * FROM `sys_monster`",
+        "name": "sys_monster",
+        "key": [
+        "MonsterID"
+        ]
+    }, {
+        "sql": "SELECT * FROM `sys_pass`",
+        "name": "sys_pass",
+        "key": [
+            "PassID"
+        ]
+    }, {
+        "sql": "SELECT * FROM `sys_drop`",
+        "name": "sys_drop",
+        "key": [
+            "DropID"
+        ]
+    }, {
+        "sql": "SELECT * FROM `sys_player`",
+        "name": "sys_player",
+        "key": [
+            "ID"
+        ]
+    }, {
+        "sql": "SELECT * FROM `sys_path`",
+        "name": "sys_path",
+        "key": [
+            "PathID"
+        ]
+    }, {
+        "sql": "SELECT * FROM `sys_cave_action`",
+        "name": "sys_cave_action",
+        "key": [
+            "CaveId"
+        ]
+    }
+]

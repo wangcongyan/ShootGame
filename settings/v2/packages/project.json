@@ -1,0 +1,44 @@
+{
+  "__version__": "1.0.4",
+  "general": {
+    "designResolution": {
+      "width": 640,
+      "height": 1136,
+      "fitHeight": false,
+      "fitWidth": true
+    }
+  },
+  "physics": {
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "Bullet"
+      },
+      {
+        "index": 2,
+        "name": "Player"
+      },
+      {
+        "index": 3,
+        "name": "Monster"
+      },
+      {
+        "index": 4,
+        "name": "Drop"
+      },
+      {
+        "index": 5,
+        "name": "EnemyBullet"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 47,
+      "1": 57,
+      "2": 57,
+      "3": 7,
+      "4": 6,
+      "5": 7
+    }
+  },
+  "custom_joint_texture_layouts": []
+}

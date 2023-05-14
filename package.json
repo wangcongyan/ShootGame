@@ -1,0 +1,10 @@
+{
+  "name": "SuiShiLing",
+  "uuid": "286d92ba-5931-43d3-905f-c6c9ca014de6",
+  "creator": {
+    "version": "3.7.3"
+  },
+  "dependencies": {
+    "fairygui-cc": "^1.1.1"
+  }
+}
